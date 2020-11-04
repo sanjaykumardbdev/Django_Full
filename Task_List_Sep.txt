@@ -1,0 +1,16 @@
+1: db connectivity through win
+2: Create exe 
+3: github ( connectivity with project )
+2: Frame adjustment
+	1: List box features
+	2: Combobox( drop down)
+	3: Radio Buttons
+	4: Checkbox
+	5: Enty( Textbox )
+	
+	
+	https://www.youtube.com/watch?v=w9FcVl-B3kw&list=PLS4zv4KDAagNMuRjHjJKn30CZZTlHzkTV&index=5
+	42.41
+	
+ramesh tagori:	python: rasa framework:
+
